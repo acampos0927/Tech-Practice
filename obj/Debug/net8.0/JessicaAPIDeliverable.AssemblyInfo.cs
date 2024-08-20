@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JessicaAPIDeliverable")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34924a9654b21548cc3f9b43c1da3251d36d55dc")]
 [assembly: System.Reflection.AssemblyProductAttribute("JessicaAPIDeliverable")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JessicaAPIDeliverable")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

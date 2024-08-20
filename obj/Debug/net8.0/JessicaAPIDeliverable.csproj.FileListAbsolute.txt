@@ -35,3 +35,4 @@ C:\Users\AngelCampos\Documents\ICstars\APIDeliverable\JessicaAPIDeliverable\bin\
 C:\Users\AngelCampos\Documents\ICstars\APIDeliverable\JessicaAPIDeliverable\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\AngelCampos\Documents\ICstars\APIDeliverable\JessicaAPIDeliverable\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\AngelCampos\Documents\ICstars\APIDeliverable\JessicaAPIDeliverable\obj\Debug\net8.0\JessicaAPIDeliverable.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\AngelCampos\Documents\ICstars\APIDeliverable\JessicaAPIDeliverable\obj\Debug\net8.0\JessicaAPIDeliverable.sourcelink.json
